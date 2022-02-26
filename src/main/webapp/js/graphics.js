@@ -88,3 +88,4 @@ function clickPlotHandler(e) {
 }
 
 plot.click(clickPlotHandler);
+
