@@ -4,7 +4,7 @@
         <a href="https://github.com/spicyfalafel/Laba2">Github</a>
     </div>
     <div id="right-header">
-        <div>Mikhailov.I P3232</div>
+        <div>Mikhailov Igor P3232</div>
         <div id="variant">Variant 32167</div>
     </div>
 </header>
