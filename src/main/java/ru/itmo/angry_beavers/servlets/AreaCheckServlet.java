@@ -1,5 +1,6 @@
 package ru.itmo.angry_beavers.servlets;
 
+
 import ru.itmo.angry_beavers.models.Query;
 import ru.itmo.angry_beavers.models.QueryStorageService;
 
